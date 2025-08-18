@@ -12,7 +12,7 @@ Plug-and-play downloads, safe practice files, and community support.
 👉 [https://m4ckDev.github.io/cyberstarter-hub/](https://m4ckDev.github.io/cyberstarter-hub/)
 
 ## Community
-Join our [Discord](https://discord.gg/YOUR_INVITE) hosted by **MacK#8050** to get help, share wins, and access exclusive downloads.
+Join our [Discord](https://discord.gg/(https://discord.gg/BFuH7SFNqV) hosted by **MacK#8050** to get help, share wins, and access exclusive downloads.
 
 ---
 *Built for learners, gamers, and creators who want fast, no-BS tools they can actually use.*
